@@ -1,0 +1,14 @@
+pip install httpx
+pip install pystyle
+pip install socks
+pip install pysocks
+pip install requests
+pip install icmplib
+pip install dnspython
+pip install cloudscraper
+pip install colorama
+pip install shutup
+pip install undetected_chromedriver
+pip install psutil
+pip install flask
+pip install wget
